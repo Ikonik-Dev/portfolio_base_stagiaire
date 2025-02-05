@@ -1,0 +1,47 @@
+h1 {
+  font-size: 15rem;
+  margin-bottom: 2rem;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+h2 {
+  font-size: 7rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+h3 {
+  font-size: 4rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+h4 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+h5 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+h6 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+
+p {
+  font-size: 1.7rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+blockquote p {
+  font-size: 3rem;
+  font-weight: 300;
+  margin-bottom: 2rem;
+  font-style: italic;
+}
